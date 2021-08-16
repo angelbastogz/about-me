@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/about-me/static/css/main.9d1115b6.chunk.css",
+    "main.js": "/about-me/static/js/main.0c2e9b72.chunk.js",
+    "main.js.map": "/about-me/static/js/main.0c2e9b72.chunk.js.map",
+    "runtime-main.js": "/about-me/static/js/runtime-main.dd82e524.js",
+    "runtime-main.js.map": "/about-me/static/js/runtime-main.dd82e524.js.map",
+    "static/js/2.db1b9f28.chunk.js": "/about-me/static/js/2.db1b9f28.chunk.js",
+    "static/js/2.db1b9f28.chunk.js.map": "/about-me/static/js/2.db1b9f28.chunk.js.map",
+    "static/js/3.0487312b.chunk.js": "/about-me/static/js/3.0487312b.chunk.js",
+    "static/js/3.0487312b.chunk.js.map": "/about-me/static/js/3.0487312b.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "static/css/main.9d1115b6.chunk.css.map": "/about-me/static/css/main.9d1115b6.chunk.css.map",
+    "static/js/2.db1b9f28.chunk.js.LICENSE.txt": "/about-me/static/js/2.db1b9f28.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/about-me/static/media/chichen_itza.28eb1178.jpg",
+    "static/media/instagram_logo.530376c2.png": "/about-me/static/media/instagram_logo.530376c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd82e524.js",
+    "static/js/2.db1b9f28.chunk.js",
+    "static/css/main.9d1115b6.chunk.css",
+    "static/js/main.0c2e9b72.chunk.js"
+  ]
+}
